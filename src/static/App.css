@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  margin-top: 20px;
+}
+
+.active {
+  text-decoration: underline
+}
+
+.header .header-span {
+  margin: 0 20px;
+}
